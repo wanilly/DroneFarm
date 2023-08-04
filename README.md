@@ -21,5 +21,10 @@ Smart Farm using the Aurco Marker
 ![image](https://github.com/wanilly/BetteryEnergy/assets/49769190/6142953b-3fdd-4023-8c8b-99efae879249)
 
 ## operation
-https://github.com/wanilly/BetteryEnergy/assets/49769190/64efad7c-7f40-47a2-aa9b-f9b4b4d06c5a
+https://github.com/wanilly/DroneFarm/assets/49769190/87b1e4cb-1129-423f-a72f-87196361029a
+### UCC 영상
+https://www.youtube.com/watch?v=WEdyHwuG3Nc
+
+
+
 
